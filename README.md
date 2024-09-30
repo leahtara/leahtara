@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Leah Tara Paul 
+# Hi there 👋, I'm Leah Tara Paul 
 
 🛠️ I'm currently building my skills in the field of Cyber security <br>
 🔭 I’m currently working on a querying system for DNS logs <br>
