@@ -1,5 +1,14 @@
 ### Hi there 👋 I'm Leah Tara Paul 
 
+🛠️ I'm currently building my skills in the field of Cyber security
+🔭 I’m currently working on a querying system for DNS logs
+👯 I’m looking to collaborate on any Cybersec related projects
+
+
+
+
+
+
 <!--
 **leahtara/leahtara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
