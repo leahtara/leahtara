@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Leah Tara Paul 
 
-🛠️ I'm currently building my skills in the field of Cyber security <br>
-🔭 I’m currently working on a querying system for DNS logs <br>
-👯 I’m looking to collaborate on any Cybersec related project <br>
 🌱 I’m currently learning **AI for cyber security**<br>
 👯 I’m looking to collaborate on **almost any cyber security project.**<br>
 💬 Ask me about **DNS**<br>
