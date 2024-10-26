@@ -3,22 +3,10 @@
 🛠️ I'm currently building my skills in the field of Cyber security <br>
 🔭 I’m currently working on a querying system for DNS logs <br>
 👯 I’m looking to collaborate on any Cybersec related project <br>
-
-
-<h1 align="center">Hi 👋, I'm Leah Tara Paul</h1>
-<h3 align="center">A cyber security enthusiast from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leahtara" alt="leahtara" /></a> </p>
-
-- 🔭 I’m currently working on **building my skills in the. field of Cyber security**
-
-- 🌱 I’m currently learning **AI for cyber security**
-
-- 👯 I’m looking to collaborate on **almost any cyber security project.**
-
-- 💬 Ask me about **DNS**
-
-- ⚡ Fun fact **Jesus is alive 🫡**
+🌱 I’m currently learning **AI for cyber security**
+👯 I’m looking to collaborate on **almost any cyber security project.**
+💬 Ask me about **DNS**
+⚡ Fun fact **Jesus is alive 🫡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
