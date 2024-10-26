@@ -6,7 +6,7 @@
 🌱 I’m currently learning **AI for cyber security**
 👯 I’m looking to collaborate on **almost any cyber security project.**
 💬 Ask me about **DNS**
-⚡ Fun fact **Jesus is alive 🫡**
+ ⚡ Fun fact **Jesus is alive 🫡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
