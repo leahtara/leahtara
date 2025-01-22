@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Leah Tara Paul 
 
-🌱 I’m currently learning **AI for cyber security**<br>
+🌱 I’m currently learning **SIEM**<br>
 👯 I’m looking to collaborate on **almost any cyber security project.**<br>
 💬 Ask me about **DNS**<br>
 ⚡ Fun fact **Jesus is alive 🫡**<br>
