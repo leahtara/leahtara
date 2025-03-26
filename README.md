@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leahtara&show_icons=true&locale=en&layout=compact" alt="leahtara" /></p>
 
-[Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/leahtara/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leahtara)](https://github.com/leahtara/github-readme-activity-graph)
 
 
 <!--
